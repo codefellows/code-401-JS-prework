@@ -16,8 +16,6 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 - [ ] [Setup WSL](https://github.com/codefellows/code-201-prework/blob/master/prework/windows/01_preface.md) -- Windows users only
 - [ ] [Install Mongo](install-mongo.md)
 - [ ] [Install REST Clients](install-rest-clients.md)
-- [ ] [Install XCode](install-xcode.md) -- Mac users only
-- [ ] [Install Android Studio](install-android-studio.md)
 
 
 ### Create Developer / Online Accounts
