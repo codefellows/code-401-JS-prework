@@ -8,6 +8,9 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 **Note: All prework is due before start of first class**
 
+### Career Coaching Checklist
+- [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/Code_401/Status_Report)
+
 ### Set Up Your Computer
 - [ ] [Configure Bash](configure-bash.md)
 - [ ] [Download and setup Slack](https://slack.com/downloads/osx)
