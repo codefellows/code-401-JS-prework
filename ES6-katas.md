@@ -13,7 +13,7 @@ Follow the links below to Repl.it where we have set up some test driven coding e
 
 ### Complete each of the following "kata" exercises
 
-  - [Promises](https://repl.it/@johncokos/Promises){:target="_blank"}
-  - [Arrow Functions](https://repl.it/@johncokos/Arrow-Functions){:target="_blank"}
-  - [Object Literals](https://repl.it/@johncokos/Object-Literals){:target="_blank"}
-  - [Template Literals](https://repl.it/@johncokos/Template-Literals){:target="_blank"}
+  - [Promises](https://repl.it/@codefellows/Promises){:target="_blank"}
+  - [Arrow Functions](https://repl.it/@codefellows/Arrow-Functions){:target="_blank"}
+  - [Object Literals](https://repl.it/@codefellows/Object-Literals){:target="_blank"}
+  - [Template Literals](https://repl.it/@codefellows/Template-Literals){:target="_blank"}
