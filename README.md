@@ -31,7 +31,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 
 ### Up your JavaScript Game (Code Challenges)
-- [ ] [Code 301 Code Challenges and Shred Talks](301-code-review.md)
+- [ ] [Code 301 Code Challenges and Shred Talks](301-code-challenges.md)
 - [ ] [ES6 Katas](ES6-katas.md)
 
 ### Reading and Reference Materials
