@@ -1,26 +1,23 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Code 401 Javascript Prework
+# Code 401 Javascript Prework
 
-### 301 Code Review / Challenges
+## 301 Code Challenges
 
-It is recommended that you read the README, watch the Videos, and Do/Re-Do the challenges
+It is recommended that you read the README, watch the Videos provided for each of these challenges.
 
-Challenges are **required** if you have tested into 401 or have a layoff > 1 week between 301 & 401
+### To turn this assignment in
 
-These readings/challenges are individually linked in Canvas as assignments as well
+- If you do not already have a `data-structures-and-algorithms` repo from 301 ...
+  - Create a new repository on github called `data-structures-and-algorithms`
+  - Clone this to your computer, under your `codefellows` working folder
+  - Copy the package.json file from the configs folder of your 401 class repository into your `data-structures-and-algorithms` folder
+  - Run `npm install` from within that folder to install all of the dependencies.
+  - Create a new folder within this repo called `code-challenges` and one called `301` within that
+- For each of the challenges below, create a new folder bearing the name of the challenge (i.e. `array-foreach`)
+  - Write your code for each challenge in a file called `[challenge].test.js` in each folder (where [challenge] is the name of the challenge)
+  - Ensure that running `npm test` from the main `data-structures-and-algorithms` folder  passes for all tests
+  - Provide a link to the master branch of this repo in canvas
 
-**To turn this assignment in**
-
-- Create a new repository on github called `code-challenges` if you haven't already done so
-- Clone this to your computer, under your `codefellows` working folder
-- Upload the  jest.config.js file into your `code-challenges` folder (found in the "configs" folder of this repository)
-- Create a new folder for each of these challenges
-- Write your code for each challenge in a file called "challenge.test.js" in each folder
-- Ensure that running `jest challenge.test.js` passes for all tests
-- Provide a link to the master branch of this repo in canvas
-
-Jest is a test runner that will execute against every file named "challenge.test.js" in your repository.
-
-**Complete Each Challenge**
+### Complete Each Challenge
 
 - [Array.forEach()](https://codefellows.github.io/code-301-guide/curriculum/01-smacss-media-queries/challenges/ASSIGNMENT){:target="_blank"}
 - [Pass by Reference](https://codefellows.github.io/code-301-guide/curriculum/02-jquery-selectors-events/challenges/ASSIGNMENT){:target="_blank"}
