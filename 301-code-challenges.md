@@ -9,7 +9,7 @@ It is recommended that you read the README, watch the Videos provided for each o
 - If you do not already have a `data-structures-and-algorithms` repo from 301 ...
   - Create a new repository on github called `data-structures-and-algorithms`
   - Clone this to your computer, under your `codefellows` working folder
-  - Copy the package.json file from the configs folder of your 401 class repository into your `data-structures-and-algorithms` folder
+  - Copy the package.json file from the configs folder of this repository into your `data-structures-and-algorithms` folder
   - Run `npm install` from within that folder to install all of the dependencies.
   - Create a new folder within this repo called `code-challenges` and one called `301` within that
 - For each of the challenges below, create a new folder bearing the name of the challenge (i.e. `array-foreach`)
