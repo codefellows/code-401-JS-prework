@@ -25,6 +25,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 - [ ] [Heroku](account-setup-heroku.md)
 - [ ] [Travis](account-setup-travis.md)
 - [ ] [Google](account-setup-google.md)
+- [ ] [NPM](account-setup-npm.md)
 - [ ] [AWS](account-setup-aws.md)
 - [ ] [REPL.it](https://repl.it/) (Optional)
 - [ ] [Code Sandbox](https://codesandbox.io/) (Optional)
