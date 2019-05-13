@@ -1,6 +1,6 @@
 # Setup Class Repository
 
-- In your personal github, create a new organization, called `<yourname>-401-advanced-javascript`
+- In your personal github, create a new organization, called `<yourname>-401-advanced-javascript` or the name of your choice (i.e. `401-advanced-javascript-<yourname>`)
 - Visit the class repository, as linked in the Syllabus
 - Fork this repository into the above organization
 - Visit this repository in that organization
