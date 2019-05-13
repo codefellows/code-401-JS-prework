@@ -13,7 +13,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Set Up Your Computer
 - [ ] [Configure Bash](configure-bash.md)
-- [ ] [Download and setup Slack](https://slack.com/downloads/osx)
+- [ ] [Download and setup Slack](https://slack.com/downloads)
 - [ ] [Setup Git](install-git.md)
 - [ ] [Install Node and NVM](install-node.md)
 - [ ] [Setup WSL](https://github.com/codefellows/code-201-prework/blob/master/prework/windows/01_preface.md) -- Windows users only
