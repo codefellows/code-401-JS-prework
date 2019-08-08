@@ -40,3 +40,9 @@ Download/Purchase/Bookmark the following books. We will be assigning readings fr
 - [ ] [ES6 Features](http://es6-features.org/)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS) (specifically, the "Scopes and Closures" and "this & Object Prototypes" books)
+
+### Complete a full-cycle application deployment
+
+Practice deploying, testing, and submitting your lab assignments.  In this assignment, you will create a new "lab" assignment, deploy it, and properly submit it to canvas as you will do throughout the course. Tutorial video included...
+
+- [ ] [Deployment Workshop](./deployment-workshop/)

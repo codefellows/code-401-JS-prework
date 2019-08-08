@@ -1,0 +1,23 @@
+{
+  "name": "401-js-proof-of-life",
+  "version": "1.0.0",
+  "description": "Proof of Life",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint '**/*.js'",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "author": "John Cokos",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
