@@ -1,6 +1,6 @@
 # LAB: Deployment
 
-Watch the [Tutorial Video](https://youtu.be/4hBqDaFNUaY)
+Watch the [Tutorial Video](https://youtu.be/s8tQd4akmb8)
 
 ### Get this code up and running Travis and Heroku!
 
