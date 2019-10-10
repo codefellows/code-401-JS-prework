@@ -1,4 +1,4 @@
-# Code 401 Javascript Prework
+# Code 401 Javascript Pre-work
 
 ## 301 Code Challenges
 

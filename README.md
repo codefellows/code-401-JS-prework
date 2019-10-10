@@ -2,11 +2,11 @@
 
 ### Pre-work
 
-This is the mandatory pre-work for Code 401: JavaScript that counts as 5% of your total course grade. When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit.
+This is the mandatory pre-work for Code 401: JavaScript that counts as 5% of your total course grade. When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this pre-work and claim credit.
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
-**Note: All prework is due before start of first class**
+**Note: All pre-work is due before start of first class**
 
 ### Career Coaching Checklist
 - [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/Code_401/Status_Report)
@@ -16,7 +16,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 - [ ] [Download and setup Slack](https://slack.com/downloads)
 - [ ] [Setup Git](install-git.md)
 - [ ] [Install Node and NVM](install-node.md)
-- [ ] [Setup WSL](https://github.com/codefellows/code-201-prework/blob/master/prework/windows/01_preface.md) -- Windows users only
+- [ ] [Setup WSL](https://github.com/codefellows/code-201-pre-work/blob/master/pre-work/windows/01_preface.md) -- Windows users only
 - [ ] [Install Mongo](install-mongo.md)
 - [ ] [Install REST Clients](install-rest-clients.md)
 
